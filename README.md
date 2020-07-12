@@ -27,6 +27,7 @@ GIF created with [LiceCap](https://www.cockos.com/licecap/).
 
 ## Notes
 Describe any challenges encountered while building the app.
+
     - Understanding how the adapter and binder work
 
 ## License

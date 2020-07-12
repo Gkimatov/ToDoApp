@@ -16,6 +16,10 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 * [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
+The following **additional** features are implemented:
+* [ ] **Improve the UI / UX** of your app including icons, styling, color, spacing of your app
+* [ ] **Sort items** by due date & priority
+
 
 ## Video Walkthrough
 

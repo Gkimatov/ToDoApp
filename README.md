@@ -1,6 +1,6 @@
 # CodePath Prework - Android ToDoApp
 
-**TodoApp is an android app that allows building a todo list and basic todo items management functionality including adding new items as well as editing and deleting an existing item.
+**TodoApp is an android app that allows building a todo list and basic todo items management functionality including adding new items as well as editing and deleting an existing item.**
 
 Submitted by: Greg Kimatov
 
